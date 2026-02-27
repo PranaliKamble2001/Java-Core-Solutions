@@ -1,0 +1,18 @@
+# --- Eclipse Specifics ---
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+.settings/
+.classpath
+.project
+
+# --- Java Specifics ---
+*.class
+*.log
+
+# --- OS Specifics ---
+.DS_Store
+Thumbs.db
