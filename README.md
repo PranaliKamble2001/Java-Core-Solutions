@@ -1,1 +1,1 @@
-# Java-Core-Logic-Solutions
+# Java-Core-Solutions
