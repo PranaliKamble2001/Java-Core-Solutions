@@ -1,1 +1,1 @@
-# Practical-exam
+# Java-Core-Logic-Solutions
