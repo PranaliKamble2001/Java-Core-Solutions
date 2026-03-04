@@ -1,3 +1,4 @@
+// This module handles linear search operations for integer arrays.
 /**
  * Project: Java Core Technical Solutions
  * Feature: Linear Search Logic
