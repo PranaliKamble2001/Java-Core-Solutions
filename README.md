@@ -14,4 +14,5 @@ The entry point of this project is `src/Main.java`, which initializes the enviro
 2. Navigate to the `src` directory.
 3. Compile the code: `javac Main.java`
 4. Run the application: `java Main`
-
+## Solutions Library
+* ** StringLogic.java** : Include efficient two-pointer palindrome chcek.
