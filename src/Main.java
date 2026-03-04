@@ -32,5 +32,6 @@ public class Main {
         System.out.println("- Update: Successfully pushed logic to GitHub.");
         System.out.println("- Module: StringLogic (Palindrome) added.");
         System.out.println("- Module [StringLogic]: Palindrome check is now LIVE.");
+        System.out.println("- Module [ArrayLogic]: Linear Search verified.");
     }
 }
