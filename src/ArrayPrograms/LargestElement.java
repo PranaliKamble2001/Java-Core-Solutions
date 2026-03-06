@@ -1,4 +1,4 @@
-package ArrayProgram;
+package ArrayPrograms;
 
 public class LargestElement 
 {
