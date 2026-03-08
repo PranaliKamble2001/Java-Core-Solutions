@@ -18,8 +18,13 @@ The entry point of this project is `src/Main.java`, which initializes the enviro
 
 ## Solutions Library
 
-- **ArrayPrograms**: Includes Largest Element, Summation, and Smallest element logic.
-- **Linear Search**: Efficient target element localization within arrays.
-- **StringLogic.java**: Includes efficient two-pointer palindrome check.
+### 📂 Array Programs (`src/ArrayPrograms/`)
+A collection of 6 core logic implementations focusing on efficient data handling:
+- **FindDuplicate**: Identified repeating elements using `HashSet` logic ($O(n)$ complexity).
+- **SecondLargest**: Implemented single-pass logic to find the runner-up value.
+- **Largest & Smallest Element**: Boundary value identification through iteration.
+- **Linear Search**: Fundamental algorithm for target element localization.
+- **Sum of Array**: Basic arithmetic accumulation and loop mastery
+
 
 **Status:**  Active Development - New Array and String challenges arriving tomorrow!
