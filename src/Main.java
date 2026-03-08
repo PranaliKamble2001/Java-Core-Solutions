@@ -1,15 +1,11 @@
 /**
  * Project: Java Core Technical Solutions
  * Author: Pranali
- * Description: This class serves as the entry point for my technical portfolio. 
- * It demonstrates clean coding practices and project organization.
+ * Description: Entry point and status dashboard for technical portfolio.
+ * Goal: Master Core Java Logic.
  */
 public class Main {
 
-    /**
-     * Entry point of the application.
-     * @param args Command line arguments
-     */
     public static void main(String[] args) {
         printHeader();
         displayProjectStatus();
@@ -17,32 +13,26 @@ public class Main {
 
     private static void printHeader() {
         System.out.println("==========================================");
-        System.out.println("   JAVA TECHNICAL PORTFOLIO - ONLINE     ");
+        System.out.println("    JAVA TECHNICAL PORTFOLIO              ");
         System.out.println("==========================================");
     }
 
     private static void displayProjectStatus() {
-        System.out.println("\n[Status]: Environment and Structure Initialized.");
-        System.out.println("[Goal]: Solving Core Java Logic Challenges for April 2026.");
+        System.out.println("\n[Status]: Environment and Package Structure Verified.");
+        System.out.println("[Roadmap]: Logic Mastery for April Professional Applications.");
         
-        System.out.println("\nModules Ready:");
-        System.out.println("- Git Configuration (.gitignore included)");
-        System.out.println("- Professional Documentation (README updated)");
-        System.out.println("- Source Directory Structure (src/ created)");
+        System.out.println("\n--- Current Modules in [src/ArrayPrograms] ---");
+        System.out.println("1. FindDuplicate   - HashSet Implementation (O(n))");
+        System.out.println("2. SecondLargest   - Single-pass Optimization");
+        System.out.println("3. LargestElement  - Iterative Boundary Check");
+        System.out.println("4. SmallestElement - Iterative Boundary Check");
+        System.out.println("5. LinearSearch    - Target Element Localization");
+        System.out.println("6. SumOfArray      - Arithmetic Accumulation");
         
-        System.out.println("\n[Package Architecture Updates]:");
-        // Update this line to reflect your new folder structure
-        System.out.println("- Package [ArrayPrograms]: Largest Element logic implemented."); 
-        System.out.println("- Package [ArrayPrograms]: Modular folder structure verified.");
-        System.out.println("- Package [ArrayPrograms]: Sum calculation logic verified.");
-        System.out.println("- Package [ArrayPrograms]: Min/Max  logic verified.");
-        System.out.println("- Package [ArrayPrograms][Search]: Linear Search Algorithm implemented.");
-        
-        
-        System.out.println("\n- Update: Successfully pushed logic to GitHub.");
-        System.out.println("- Module: StringLogic (Palindrome) added.");
-        System.out.println("- Module [ArrayLogic]: Linear Search verified.");
-        System.out.println("- Module [MathLogic]: Max/Min Finder active.");
-        
+        System.out.println("\n--- Current Modules in [src/StringPrograms] ---");
+        System.out.println("1. StringLogic     - Two-pointer Palindrome Check");
+
+        System.out.println("\n[Next Step]: Commencing Day 4 - Advanced String Manipulation.");
+        System.out.println("==========================================");
     }
 }
