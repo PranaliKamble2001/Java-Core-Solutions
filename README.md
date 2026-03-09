@@ -25,6 +25,7 @@ A collection of 6 core logic implementations focusing on efficient data handling
 - **Largest & Smallest Element**: Boundary value identification through iteration.
 - **Linear Search**: Fundamental algorithm for target element localization.
 - **Sum of Array**: Basic arithmetic accumulation and loop mastery
+ - **ReverseArray**: In-place reversal using the two-pointer technique.
 
 ### 📂 String Logic (`src/StringPrograms/`)
 Focusing on character manipulation and algorithmic optimization:
