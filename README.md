@@ -26,5 +26,9 @@ A collection of 6 core logic implementations focusing on efficient data handling
 - **Linear Search**: Fundamental algorithm for target element localization.
 - **Sum of Array**: Basic arithmetic accumulation and loop mastery
 
+### 📂 String Logic (`src/StringPrograms/`)
+Focusing on character manipulation and algorithmic optimization:
+* **ReverseString**: Manual string reversal using character indexing (No built-in library shortcuts).
+* **Palindrome**: Optimized two-pointer approach for symmetry verification.
 
 **Status:**  Active Development - New Array and String challenges arriving tomorrow!
