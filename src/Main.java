@@ -31,6 +31,7 @@ public class Main {
         
         System.out.println("\n--- Current Modules in [src/StringPrograms] ---");
         System.out.println("1. StringLogic     - Two-pointer Palindrome Check");
+        System.out.println("2. ReverseString   - Manual Character-based Reversal");
 
         System.out.println("\n[Next Step]: Commencing Day 4 - Advanced String Manipulation.");
         System.out.println("==========================================");
