@@ -39,13 +39,14 @@ public class Main {
         System.out.println("4. AnagramCheck     - Sorting & Comparison Logic");       
         System.out.println("5. LongestSubstring - Sliding Window Pattern");           
         System.out.println("6. StringCompress   - StringBuilder Optimization");
-
         
-        System.out.println("\n--- COMPLETED: Modules in [src/MatrixPrograms] ---");
+
+        System.out.println("\n--- Current Modules in [src/MatrixPrograms] ---");
         System.out.println("1. MatrixTranspose      - Row-Column Flips");
         System.out.println("2. MatrixAddition       - Element-wise Grid Summation");
         System.out.println("3. MatrixSearch         - Target Localization");
-        System.out.println("4. MatrixMultiplication - Boss Level Triple-Loop Logic (O(n^3))");
+        System.out.println("4. MatrixMultiplication - Boss Level Triple-Loop Logic");
+        System.out.println("5. MatrixDiagonalSum    - Single-loop Diagonal Accumulation");
 
         
 
