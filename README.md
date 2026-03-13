@@ -33,6 +33,7 @@ The entry point of this project is `src/Main.java`, which initializes the enviro
 * **MatrixTranspose:** Logic to flip a matrix over its diagonal, converting rows to columns.
 * **MatrixAddition:** Element-wise summation of two 2D grids of equal dimensions.
 * **MatrixSearch:** Linear search implementation for target localization in a 2D coordinate system.
+* **MatrixMultiplication:** Optimized triple-nested loop implementation ($O(n^3)$) requiring dot-product summation and dimension validation.
 ------------------------------------------------------------------------------------------------
 
 ##  Technical Competencies
