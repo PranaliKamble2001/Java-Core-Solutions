@@ -36,7 +36,8 @@ The entry point of this project is `src/Main.java`, which initializes the enviro
 * **MatrixMultiplication:** Optimized triple-nested loop implementation ($O(n^3)$).
 * **MatrixDiagonalSum:** Efficient single-pass extraction of the primary diagonal sum.
 * **RowColumnSum:** Logic to calculate cumulative totals for each row and column.
-* **IdentityMatrix:** Procedural generation of a square matrix where the primary diagonal is 1 and all other elements are 0.
+* **IdentityMatrix:** Procedural generation of a square matrix with 1s on the primary diagonal.
+* **ScalarMultiplication:** Implementation of scaling a 2D array by a constant factor through in-place modification.
 ------------------------------------------------------------------------------------------------
 
 ##  Technical Competencies
