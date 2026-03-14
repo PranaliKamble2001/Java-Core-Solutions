@@ -35,7 +35,7 @@ The entry point of this project is `src/Main.java`, which initializes the enviro
 * **MatrixSearch:** Linear search implementation for 2D coordinate systems.
 * **MatrixMultiplication:** Optimized triple-nested loop implementation ($O(n^3)$).
 * **MatrixDiagonalSum:** Efficient single-pass extraction of the primary diagonal sum.
-  
+* **RowColumnSum:** Logic to calculate and display cumulative totals for each row and column.
 ------------------------------------------------------------------------------------------------
 
 ##  Technical Competencies
