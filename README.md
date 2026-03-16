@@ -44,6 +44,7 @@ Nested loop mastery and 2D data manipulation:
 *Implementation of fundamental sorting algorithms and efficiency analysis:*
 * **BubbleSort:** Classic $O(n^2)$ comparison-based sort using adjacent element swapping and flag-based optimization.
 * **SelectionSort:** Logic based on finding the minimum element and placing it at the sorted boundary.
+* **InsertionSort:** Efficiently inserts elements into their correct position in a sorted sub-array.
 
 ------------------------------------------------------------------------------------------------
 
