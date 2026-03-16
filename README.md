@@ -5,7 +5,7 @@ This repository is a dedicated technical portfolio for mastering **Core Java** l
 ## Project Overview
 The entry point of this project is `src/Main.java`, which initializes the environment, tracks progress, and displays the logic challenge roadmap.
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
 ## 📂 Solutions Library
 
@@ -38,13 +38,13 @@ Nested loop mastery and 2D data manipulation:
 * **IdentityMatrix:** Procedural generation of a square matrix with 1s on the diagonal.
 * **ScalarMultiplication:** Scaling a 2D array by a constant factor through in-place modification.
 * **UpperTriangle:** Filters elements where the column index is $\ge$ row index.
-  
+* **LowerTriangle:** Filters elements where the row index is $\ge$ column index.
 
 ### 🔹 Sorting Programs (`src/SortingPrograms/`)
 *Implementation of fundamental sorting algorithms and efficiency analysis:*
 * **BubbleSort:** Classic $O(n^2)$ comparison-based sort using adjacent element swapping and flag-based optimization.
 
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
 ## Technical Competencies
 * **Collections Framework:** Expert use of `HashMap`, `LinkedHashMap`, `HashSet`, and `ArrayList`.
