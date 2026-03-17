@@ -46,6 +46,11 @@ Nested loop mastery and 2D data manipulation:
 * **SelectionSort:** Logic based on finding the minimum element and placing it at the sorted boundary.
 * **InsertionSort:** Efficiently inserts elements into their correct position in a sorted sub-array.
 
+### 🔹 Searching Programs (`src/SearchingPrograms/`)
+*Implementation of retrieval algorithms based on data organization:*
+* **LinearSearch:** Sequential scan of elements—the universal approach for searching unsorted data.
+
+  
 ------------------------------------------------------------------------------------------------
 
 ## Technical Competencies
