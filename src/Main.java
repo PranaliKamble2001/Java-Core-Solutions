@@ -58,6 +58,10 @@ public class Main {
         System.out.println("2. SelectionSort        - Minimum Element Selection (O(n^2))");
         System.out.println("3. InsertionSort        - Shift-and-Insert Logic");
 
+
+        System.out.println("\n--- NEW: Modules in [src/SearchingPrograms] ---");
+        System.out.println("1. LinearSearch - Sequential Comparison (O(n))");
+
         System.out.println("\n[Next Step]: Commencing - Advanced String Manipulation.");
         System.out.println("==========================================");
     }
