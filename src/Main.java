@@ -63,6 +63,8 @@ public class Main {
         System.out.println("1. LinearSearch - Sequential Comparison (O(n))");
         System.out.println("2. BinarySearch - Divide & Conquer Optimization (O(log n))");
 
+        System.out.println("\n--- NEW: Modules in [src/RecursionPrograms] ---");
+        System.out.println("1. FactorialRecursion - Base Case & Stack Logic");
 
         
         System.out.println("\n[Next Step]: Commencing - Advanced String Manipulation.");
