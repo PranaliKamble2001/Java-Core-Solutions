@@ -49,6 +49,7 @@ Nested loop mastery and 2D data manipulation:
 ### 🔹 Searching Programs (`src/SearchingPrograms/`)
 *Implementation of retrieval algorithms based on data organization:*
 * **LinearSearch:** Sequential scan of elements—the universal approach for searching unsorted data.
+* **BinarySearch:** High-speed retrieval using logarithmic division (requires sorted input).
 
   
 ------------------------------------------------------------------------------------------------
