@@ -51,7 +51,10 @@ Nested loop mastery and 2D data manipulation:
 * **LinearSearch:** Sequential scan of elements—the universal approach for searching unsorted data.
 * **BinarySearch:** High-speed retrieval using logarithmic division (requires sorted input).
 
-  
+
+  ### 🔹 Recursion Programs (`src/RecursionPrograms/`)
+*Implementation of functions that call themselves to solve complex problems:*
+* **FactorialRecursion:** Classic mathematical recursion calculating $n!$ using base cases and the call stack.
 ------------------------------------------------------------------------------------------------
 
 ## Technical Competencies
