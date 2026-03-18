@@ -57,6 +57,7 @@ Nested loop mastery and 2D data manipulation:
 * **FactorialRecursion:** Classic mathematical recursion calculating $n!$ using base cases and the call stack.
 * **FibonacciRecursion:** Generates the Fibonacci sequence by summing two preceding recursive calls ($f(n) = f(n-1) + f(n-2)$).
 * **StringReverseRecursion:** Reverses a string by recursively calling the substring and appending the first character to the end.
+* **ArraySumRecursion:** Calculates the total sum of an array by traversing it with a recursive index pointer ($O(n)$ complexity).
 ------------------------------------------------------------------------------------------------
 
 ## Technical Competencies
