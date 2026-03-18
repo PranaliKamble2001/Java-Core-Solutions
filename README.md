@@ -52,9 +52,10 @@ Nested loop mastery and 2D data manipulation:
 * **BinarySearch:** High-speed retrieval using logarithmic division (requires sorted input).
 
 
-  ### 🔹 Recursion Programs (`src/RecursionPrograms/`)
+ ### 🔹 Recursion Programs (`src/RecursionPrograms/`)
 *Implementation of functions that call themselves to solve complex problems:*
 * **FactorialRecursion:** Classic mathematical recursion calculating $n!$ using base cases and the call stack.
+* **FibonacciRecursion:** Generates the Fibonacci sequence by summing two preceding recursive calls ($f(n) = f(n-1) + f(n-2)$).
 ------------------------------------------------------------------------------------------------
 
 ## Technical Competencies
