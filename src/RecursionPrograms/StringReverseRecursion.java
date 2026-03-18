@@ -7,7 +7,7 @@ package RecursionPrograms;
  */
 public class StringReverseRecursion {
     public static void main(String[] args) {
-        String input = "GitHub";
+        String input = "Java Developer";
         String reversed = reverse(input);
         
         System.out.println("Original String: " + input);
