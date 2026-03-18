@@ -56,6 +56,7 @@ Nested loop mastery and 2D data manipulation:
 *Implementation of functions that call themselves to solve complex problems:*
 * **FactorialRecursion:** Classic mathematical recursion calculating $n!$ using base cases and the call stack.
 * **FibonacciRecursion:** Generates the Fibonacci sequence by summing two preceding recursive calls ($f(n) = f(n-1) + f(n-2)$).
+* **StringReverseRecursion:** Reverses a string by recursively calling the substring and appending the first character to the end.
 ------------------------------------------------------------------------------------------------
 
 ## Technical Competencies
