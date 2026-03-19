@@ -68,6 +68,10 @@ public class Main {
         System.out.println("2. FibonacciRecursion - Multiple Recursive Calls");
         System.out.println("3. StringReverseRecursion - Substring Slicing Logic");
         System.out.println("4. ArraySumRecursion  - sum of an array by traversing it with a recursive index pointer ($O(n)$ complexity). ");
+
+
+        System.out.println("\n--- NEW: Modules in [src/NumberPrograms] ---");
+        System.out.println("1. ArmstrongCheck - Mathematical Power-Sum Logic");
         
  
         System.out.println("\n[Next Step]: Commencing - Advanced String Manipulation.");
