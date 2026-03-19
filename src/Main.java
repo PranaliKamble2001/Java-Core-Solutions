@@ -73,6 +73,7 @@ public class Main {
         System.out.println("\n--- NEW: Modules in [src/NumberPrograms] ---");
         System.out.println("1. ArmstrongCheck - Mathematical Power-Sum Logic");
         System.out.println("2. PrimeCheck - Optimized O(sqrt(n)) primality test");
+        System.out.println("3. PerfectNumber - Proper divisor summation logic");
         
  
         System.out.println("\n[Next Step]: Commencing - Advanced String Manipulation.");
