@@ -63,6 +63,7 @@ Nested loop mastery and 2D data manipulation:
 ### 🔹 Number Programs (`src/NumberPrograms/`)
 * **ArmstrongCheck:** A mathematical logic program that verifies if the sum of a number's digits raised to the power of the number of digits equals the number itself.
 * **PrimeCheck:** An optimized primality test using the square root boundary for better performance.
+* **PerfectNumber:** Implements logic to find divisors and verify if their sum equals the original integer.
 ------------------------------------------------------------------------------------------------
 
 ## Technical Competencies
