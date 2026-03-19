@@ -59,11 +59,10 @@ Nested loop mastery and 2D data manipulation:
 * **StringReverseRecursion:** Reverses a string by recursively calling the substring and appending the first character to the end.
 * **ArraySumRecursion:** Calculates the total sum of an array by traversing it with a recursive index pointer ($O(n)$ complexity).
 
-
 ### 🔹 Number Programs (`src/NumberPrograms/`)
-* **ArmstrongCheck:** A mathematical logic program that verifies if the sum of a number's digits raised to the power of the number of digits equals the number itself.
-* **PrimeCheck:** An optimized primality test using the square root boundary for better performance.
-* **PerfectNumber:** Implements logic to find divisors and verify if their sum equals the original integer.
+* **ArmstrongNumber:** Checks if a number equals the sum of its digits raised to the power of the digit count.
+* **PerfectNumber:** Verifies if the sum of all proper divisors of a number equals the number itself.
+* **PrimeCheck:** An efficient algorithm to determine if a number is prime using square root optimization.
 ------------------------------------------------------------------------------------------------
 
 ## Technical Competencies
