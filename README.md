@@ -65,6 +65,7 @@ Nested loop mastery and 2D data manipulation:
 * **PrimeCheck:** An efficient algorithm to determine if a number is prime using square root optimization.
 * **StrongNumber:** A mathematical check to verify if the sum of the factorials of a number's digits equals the number itself.
 * **PalindromeNumber:** Implements an algorithm to reverse an integer and verify its equality with the original input.
+* **Factorial:** Implements iterative logic to calculate the product of all positive integers up to a given number (n!).
 ------------------------------------------------------------------------------------------------
 
 ## Technical Competencies
