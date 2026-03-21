@@ -76,6 +76,7 @@ public class Main {
         System.out.println("3. PrimeCheck - Optimized O(sqrt(n)) primality test");
         System.out.println("4. StrongNumber - Digit-factorial summation logic");
         System.out.println("5. PalindromeNumber - Integer reversal and equality check");
+        System.out.println("6. Factorial - Iterative calculation of n!");
 
 
         System.out.println("\n[Next Step]: Commencing - Advanced String Manipulation.");
