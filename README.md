@@ -63,6 +63,7 @@ Nested loop mastery and 2D data manipulation:
 * **ArmstrongNumber:** Checks if a number equals the sum of its digits raised to the power of the digit count.
 * **PerfectNumber:** Verifies if the sum of all proper divisors of a number equals the number itself.
 * **PrimeCheck:** An efficient algorithm to determine if a number is prime using square root optimization.
+* **StrongNumber:** A mathematical check to verify if the sum of the factorials of a number's digits equals the number itself.
 ------------------------------------------------------------------------------------------------
 
 ## Technical Competencies
